@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.sub {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: fit-content;
+  height: 30px;
+  width: 400px;
+  border-radius: 30px;
+  color: white;
+  background-color: black;
+  margin-top: 20px;
+}
+.subm:hover {
+  color: black;
+  background-color: red;
+  transition: 1s;
+}
